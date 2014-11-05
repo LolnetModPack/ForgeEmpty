@@ -1,0 +1,14 @@
+{
+  "name": "DW20 Package",
+  "title": "Direwolf 20",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "servers.dat",
+      "options.txt"
+    ]
+  }
+}
