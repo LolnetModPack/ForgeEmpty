@@ -2,10 +2,10 @@
 "minimumVersion": 1, 
 "packages": [
 {
-"name": "1.7.10 Forge Package", 
-"title": "1.7 Forge", 
+"name": "ForgeEmpty", 
+"title": "ForgeEmpty", 
 "version": "MODPACKVERSION", 
-"location": "https://www.lolnet.co.nz/modpack/Forge17.json", 
+"location": "https://www.lolnet.co.nz/modpack/ForgeEmpty.json", 
 "priority": 1
 }
 ]
