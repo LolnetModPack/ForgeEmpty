@@ -1,14 +1,19 @@
 {
-  "name": "ForgeEmpty", 
-  "title": "ForgeEmpty", 
-  "gameVersion": "1.8",
-  "launch": {
-    "flags": []
+  "name" : "forge_template",
+  "title" : "Forge Template",
+  "gameVersion" : "1.7.10",
+  "features" : [ ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt",
+      "server.dat"
+    ],
+    "exclude" : [ ]
   },
-  "userFiles": {
-    "include": [
-      "servers.dat",
-      "options.txt"
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
     ]
   }
 }
